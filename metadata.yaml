@@ -1,0 +1,19 @@
+---
+title: "Apostila da Certificação AZ-900"
+author: "Compilação: William Oliveira"
+date: "11/06/2023"
+subject: "Certificação AZ-900"
+keywords: [Microsoft, AZ-900]
+lang: "pt-br"
+number-sections: true
+header-includes: |
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyhf{}
+    \fancyhead[L]{\nouppercase{\leftmark}}
+    \fancyhead[R]{\thepage}
+    \fancyfoot[CO,CE]{Fonte: https://learn.microsoft.com/pt-br/certifications/exams/az-900/}
+    \fancyfoot[LE,RO]{\thepage}
+...
+
+
