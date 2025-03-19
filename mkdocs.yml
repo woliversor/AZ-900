@@ -48,7 +48,7 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
-repo_url: https://github.com/woliversor/Azure
+repo_url: https://github.com/woliversor/AZ-900
 edit_uri: edit/master/
 plugins:
   - search
