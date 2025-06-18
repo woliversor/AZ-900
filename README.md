@@ -27,14 +27,19 @@ Este repositório contém uma apostila completa em formato Markdown para auxilia
 
 1. Instale os requisitos:
 
-   ```bash
-   sudo apt install pandoc texlive-xetex mkdocs mkdocs-material
+```bash
+
+sudo apt install pandoc texlive-xetex mkdocs mkdocs-material
+
+```
 
 2. Execute o script:
 
 ```bash
+
 ./cria.sh
 
+```
 
 ## 👨‍💻 Autor
 
