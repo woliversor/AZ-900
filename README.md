@@ -36,3 +36,10 @@ Este repositório contém uma apostila completa em formato Markdown para auxilia
 ./cria.sh
 
 
+## 👨‍💻 Autor
+
+**aka woliversor**\
+Especialista em Cibersegurança e Infraestrutura de TI.\
+Contato: [https://woliversor.github.io/home/](https://woliversor.github.io/home/)
+
+---
